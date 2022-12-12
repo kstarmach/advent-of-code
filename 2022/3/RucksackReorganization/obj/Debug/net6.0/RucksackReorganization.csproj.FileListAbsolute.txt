@@ -1,0 +1,15 @@
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.exe
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.deps.json
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.runtimeconfig.json
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.dll
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.pdb
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.csproj.AssemblyReference.cache
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.AssemblyInfoInputs.cache
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.AssemblyInfo.cs
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.csproj.CoreCompileInputs.cache
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.dll
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\refint\RucksackReorganization.dll
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.pdb
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.genruntimeconfig.cache
+E:\repos\AdventOfCode\2022\3\RucksackReorganization\obj\Debug\net6.0\ref\RucksackReorganization.dll
