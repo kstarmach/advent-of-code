@@ -1,0 +1,15 @@
+E:\repos\AdventOfCode\2022\4\CampCleanup\bin\Debug\net6.0\CampCleanup.exe
+E:\repos\AdventOfCode\2022\4\CampCleanup\bin\Debug\net6.0\CampCleanup.deps.json
+E:\repos\AdventOfCode\2022\4\CampCleanup\bin\Debug\net6.0\CampCleanup.runtimeconfig.json
+E:\repos\AdventOfCode\2022\4\CampCleanup\bin\Debug\net6.0\CampCleanup.dll
+E:\repos\AdventOfCode\2022\4\CampCleanup\bin\Debug\net6.0\CampCleanup.pdb
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.csproj.AssemblyReference.cache
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.AssemblyInfoInputs.cache
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.AssemblyInfo.cs
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.csproj.CoreCompileInputs.cache
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.dll
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\refint\CampCleanup.dll
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.pdb
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\CampCleanup.genruntimeconfig.cache
+E:\repos\AdventOfCode\2022\4\CampCleanup\obj\Debug\net6.0\ref\CampCleanup.dll
